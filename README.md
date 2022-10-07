@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   <br />
 
-  <h5 align="center">Sr. NodeJS developer for Genesys & Front end engineer at Altoros</h5>
+  <h6 align="center">Sr. NodeJS developer for Genesys & Front end engineer at Altoros</h6>
 
   <br />
 
