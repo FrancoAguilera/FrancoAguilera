@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![coding programer](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <!--
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
