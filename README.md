@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   <br />
 
-  <h3 align="center">Sr. NodeJS developer for Genesys & Front end engineer at Altoros</h3>
+  <h5 align="center">Sr. NodeJS developer for Genesys & Front end engineer at Altoros</h5>
 
   <br />
 
@@ -50,10 +50,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="55" height="55"/>
 </div>
 
-<div id="header" align="center">
+<br />
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 [![Franco Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
