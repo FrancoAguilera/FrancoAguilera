@@ -1,9 +1,11 @@
-### Hi 👋, I'm Franco Aguilera
+<h1 align="center">Hi 👋, I'm Franco Aguilera<h1>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
+<h3 align="center">JS 7 NodeJS developer and an aspiring for Solidity programer</h3>
+  
 <!--
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
