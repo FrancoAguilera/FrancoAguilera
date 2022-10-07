@@ -1,4 +1,18 @@
-<h1 align="center">Hi 👋, I'm Franco Aguilera<h1>
+<!--
+**FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
+<h1 align="center">Hi there!👋, I'm Franco Aguilera<h1>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -23,7 +37,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <br />  
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="55" height="55"/>&nbsp;
@@ -35,7 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/stylus/stylus-original.svg"  title="stylus" alt="stylus" width="55" height="55"/>&nbsp;
   <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="55" height="55"/>
-
 </div>
 
 <br />
@@ -43,19 +56,4 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Franco Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![Franco Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
