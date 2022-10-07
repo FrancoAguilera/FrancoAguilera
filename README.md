@@ -40,8 +40,8 @@
 
 <br />
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera)](https://git.io/streak-stats)
+  [![Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoAguilera)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
