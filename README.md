@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="55" height="55"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" title="Express" alt="Express" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stylus/stylus-original.svg"  title="stylus" alt="stylus" width="55" height="55"/>&nbsp;
-  <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" title="Express" alt="Express" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/stylus/stylus-original.svg"  title="stylus" alt="stylus" width="45" height="45"/>&nbsp;
+  <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="45" height="45"/>
 </div>
 
 <br />
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)<br />
-[![Franco Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Franco Top Langs](https://github-readme-stats.vercel.app/api?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
