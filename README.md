@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
-<h3 align="center">JS/NodeJS developer with more than 10 years of experience, and an work in progress Solidity programer</h3>
+<h3 align="center">Sr. NodeJS developer for Genesys & Front end engineer at Altoros</h3>
 
 - 🔭 Currently working on Altoros
 
@@ -36,7 +36,13 @@
   <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="55" height="55"/>
 
-</div>  
+</div>
+
+<br />
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoAguilera)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
