@@ -22,14 +22,14 @@
     <a href="https://stackoverflow.com/users/2743774/flaalf"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
   </div>
-<br />  
+
 <hr/>
 
 ### About
 
 <p>I started programming as a personal hobby during high school, and that hobby is what has become my passion today.
 With more than ten years of experience working exclusively with Javascript and everything related to this wonderful language, I am always looking for a new challenge and something to learn and continue to grow.</p>
-<br />
+
 <hr/>
 
 ### Skills
@@ -55,7 +55,6 @@ With more than ten years of experience working exclusively with Javascript and e
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-<br />
 <hr/>
 
 ### Languages and Tools :
@@ -71,7 +70,6 @@ With more than ten years of experience working exclusively with Javascript and e
   <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
 </div>
 
-<br />
 <hr/>
 
 ### My Stats :
