@@ -24,7 +24,6 @@
   </div>
 <br />  
 <hr/>
-<br />
 
 ### About
 
@@ -32,7 +31,6 @@
 With more than ten years of experience working exclusively with Javascript and everything related to this wonderful language, I am always looking for a new challenge and something to learn and continue to grow.</p>
 <br />
 <hr/>
-<br />
 
 ### Skills
 
@@ -59,7 +57,6 @@ With more than ten years of experience working exclusively with Javascript and e
 
 <br />
 <hr/>
-<br />
 
 ### Languages and Tools :
 
@@ -76,7 +73,6 @@ With more than ten years of experience working exclusively with Javascript and e
 
 <br />
 <hr/>
-<br />
 
 ### My Stats :
 
