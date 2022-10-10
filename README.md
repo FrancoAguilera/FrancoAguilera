@@ -75,10 +75,10 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 ### Current position
 
 <div style="display: table; clear: both;">
-  <div style="float: left; width: 25%; padding: 10px; height: 200px; text-align: center;">
-    <img src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png" width="150"/>
-  </div>
-  <div style="float: left; width: 70%; text-align: left;">
+  
+  <img style="float: left;" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png" width="150"/>
+  
+  <div style="float: left; width: 70%; text-align: left; padding-left: 25px;">
     <h3><b>Full-stack Developer</b></h3>
     <span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
     Remote <br />
@@ -90,12 +90,6 @@ With more than ten years of experience, and a solid JS fundamentals background, 
     </p>
   </div>
 </div>
-
-<hr/>
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FrancoAGuilera&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr />
 
