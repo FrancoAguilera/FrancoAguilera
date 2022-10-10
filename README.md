@@ -74,22 +74,17 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 ### Current position
 
-<div style="display: table; clear: both;">
-  
-  <img style="float: left;" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png" width="150"/>
-  
-  <div style="float: left; width: 70%; text-align: left; padding-left: 25px;">
-    <h3><b>Full-stack Developer</b></h3>
-    <span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
-    Remote <br />
-    <p class="description">
-    <br />
-    Fullstack with AWS for backend/DevOps.<br />
-    UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
-    DevOps on applications in SNOW, and S3 deployment environments.
-    </p>
-  </div>
-</div>
+<img align="left" width="150" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png">
+
+<h3><b>Full-stack Developer</b></h3>
+<span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
+Remote <br />
+<p>
+<br />
+Fullstack with AWS for backend/DevOps.<br />
+UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
+DevOps on applications in SNOW, and S3 deployment environments.
+</p>
 
 <hr />
 
