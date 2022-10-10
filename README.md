@@ -74,43 +74,49 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 ### Current position
 
-<img align="left" width="150" height="200" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png">
+<p align="center">
+<img width="150" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png">
+</p>
 
-<h3><b>Full-stack Developer</b></h3>
-<span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
-Remote <br />
-<p>
-<br />
-Fullstack with AWS for backend/DevOps.<br />
-UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
-DevOps on applications in SNOW.
+<h3 align="center"><b>Full-stack Developer</b></h3>
+<p align="center">Altoros - <i>Aug 2018 - Today</i></p>
+<p align="center">Remote</p>
+<p align="center">
+  Fullstack with AWS for backend/DevOps.<br />
+  UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
+  DevOps on applications in SNOW.
 </p>
 
 <hr />
 
 ### Previous positions
 
-<img align="left" width="150" height="200" src="https://partnersoftwarelatam.com/wp-content/uploads/2020/11/McAfee-Logo.png">
+<p align="center">
+<img width="150" src="https://partnersoftwarelatam.com/wp-content/uploads/2020/11/McAfee-Logo.png">
+</p>
 
-  <h3><b>Javascript Developer</b></h3>
-  <span>McAfee</span> - <i>Mar 2017 - Aug 2018</i> <br />
-  Córdoba, Argentina <br />
-  <p style="line-height: normal;">
-  <br />
+<h3 align="center"><b>Javascript Developer</b></h3>
+<p align="center">McAfee - <i>Mar 2017 - Aug 2018</i></p>
+<p align="center">Córdoba, Argentina</p>
+<p align="center">
   Information security platforms, working with Angularjs and Angular, implementation of Nodejs with SSH protocols, and legacy projects support and code quality.
-  </p>
+</p>
 
 <br />
+<br />
 
-<img align="left" width="150" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/800px-Intel_logo_%282006-2020%29.svg.png">
+<p align="center">
+<img width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/800px-Intel_logo_%282006-2020%29.svg.png">
+</p>
 
-  <h3><b>NodeJS Developer</b></h3>
-  <span>Intel</span> - <i>Feb 2016 - Mar 2017</i> <br />
-  Córdoba, Argentina <br />
-  <p style="line-height: normal;">
-  <br />
+<h3 align="center"><b>NodeJS Developer</b></h3>
+<p align="center">Intel - <i>Feb 2016 - Mar 2017</i></p>
+<p align="center">Córdoba, Argentina</p>
+<p align="center">
   Working in two main project using Angular as a main tool on the development for a learning platform, also other tools based on the JS language to enhace the working environment.
-  </p>
+</p>
+
+<br />
 
 <hr />
 
