@@ -79,7 +79,7 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 </p>
 
 <h3 align="center"><b>Full-stack Developer</b></h3>
-<p align="center">Altoros - <i>Aug 2018 - Today</i></p>
+<p align="center"><b>Altoros</b> - <i>Aug 2018 - Today</i></p>
 <p align="center">Remote</p>
 <p align="center">
   Fullstack with AWS for backend/DevOps.<br />
@@ -96,7 +96,7 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 </p>
 
 <h3 align="center"><b>Javascript Developer</b></h3>
-<p align="center">McAfee - <i>Mar 2017 - Aug 2018</i></p>
+<p align="center"><b>McAfee</b> - <i>Mar 2017 - Aug 2018</i></p>
 <p align="center">Córdoba, Argentina</p>
 <p align="center">
   Information security platforms, working with Angularjs and Angular, implementation of Nodejs with SSH protocols, and legacy projects support and code quality.
@@ -110,7 +110,7 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 </p>
 
 <h3 align="center"><b>NodeJS Developer</b></h3>
-<p align="center">Intel - <i>Feb 2016 - Mar 2017</i></p>
+<p align="center"><b>Intel</b> - <i>Feb 2016 - Mar 2017</i></p>
 <p align="center">Córdoba, Argentina</p>
 <p align="center">
   Working in two main project using Angular as a main tool on the development for a learning platform, also other tools based on the JS language to enhace the working environment.
