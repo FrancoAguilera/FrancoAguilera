@@ -2,6 +2,41 @@
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 200px;
+}
+
+.image {
+  text-align: center;
+  width: 20%;
+}
+
+.text {
+  text-align: left;
+  width: 75%;
+  padding-left: 25px;
+}
+
+.description {
+  line-height: normal;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 <h1 align="center">Sr. Javascript/NodeJS Developer<h1>
 
 <div id="header" align="center">
@@ -27,8 +62,8 @@
 
 ### About
 
-<p>I started programming as a personal hobby during high school, and that hobby is what has become my passion today.
-With more than ten years of experience working exclusively with Javascript and everything related to this wonderful language, I am always looking for a new challenge and something to learn and continue to grow.</p>
+<p>I started programming as a personal hobby during high school, and that hobby has since became my passion. <br />
+With more than ten years of experience, and a solid JS fundamentals background, I am always looking for a new challenge and something to learn and continue to grow.</p>
 
 <hr/>
 
@@ -57,7 +92,7 @@ With more than ten years of experience working exclusively with Javascript and e
 
 <hr/>
 
-### Languages and Tools :
+### Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
@@ -71,6 +106,67 @@ With more than ten years of experience working exclusively with Javascript and e
 </div>
 
 <hr/>
+
+### Current position
+
+<div class="row">
+  <div class="column image">
+    <img src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png" width="150"/>
+  </div>
+  <div class="column text">
+    <h3><b>Full-stack Developer</b></h3>
+    <span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
+    Remote <br />
+    <p class="description">
+    <br />
+    Fullstack with AWS for backend/DevOps.<br />
+    UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
+    DevOps on applications in SNOW, and S3 deployment environments.
+    </p>
+  </div>
+</div>
+
+<hr/>
+
+### Previous positions
+
+<div class="row">
+  <div class="column image">
+    <img src="https://partnersoftwarelatam.com/wp-content/uploads/2020/11/McAfee-Logo.png" width="150"/>
+  </div>
+  <div class="column text">
+    <h3><b>Javascript Developer</b></h3>
+    <span>McAfee</span> - <i>Mar 2017 - Aug 2018</i> <br />
+    Córdoba, Argentina <br />
+    <p class="description">
+    <br />
+    Information security platforms, working with Angularjs and Angular, implementation of Nodejs with SSH protocols, and legacy projects support and code quality.
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column image">
+    <img src="https://assets.stickpng.com/images/58568d224f6ae202fedf2720.png" width="150"/>
+  </div>
+  <div class="column text">
+    <h3><b>NodeJS Developer</b></h3>
+    <span>Intel</span> - <i>Feb 2016 - Mar 2017</i> <br />
+    Córdoba, Argentina <br />
+    <p class="description">
+    <br />
+    Working in two main project using Angular as a main tool on the development for a learning platform, also other tools based on the JS language to enhace the working environment.
+    </p>
+  </div>
+</div>
+
+<hr/>
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrancoAGuilera&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr />
 
 ### My Stats :
 
