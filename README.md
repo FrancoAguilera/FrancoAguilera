@@ -2,39 +2,6 @@
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 200px;
-}
-
-.image {
-  text-align: center;
-  width: 20%;
-}
-
-.text {
-  text-align: left;
-  width: 75%;
-  padding-left: 25px;
-}
-
-.description {
-  line-height: normal;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 </style>
 
 <h1 align="center">Sr. Javascript/NodeJS Developer<h1>
@@ -109,11 +76,11 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 ### Current position
 
-<div class="row">
-  <div class="column image">
+<div style="display: table;clear: both;">
+  <div style="float: left; width: 25%; padding: 10px; height: 200px; text-align: center;">
     <img src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png" width="150"/>
   </div>
-  <div class="column text">
+  <div style="text-align: left;">
     <h3><b>Full-stack Developer</b></h3>
     <span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
     Remote <br />
@@ -130,30 +97,30 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 ### Previous positions
 
-<div class="row">
-  <div class="column image">
+<div style="display: table;clear: both;">
+  <div style="float: left; width: 25%; padding: 10px; height: 200px; text-align: center;">
     <img src="https://partnersoftwarelatam.com/wp-content/uploads/2020/11/McAfee-Logo.png" width="150"/>
   </div>
-  <div class="column text">
+  <div style="text-align: left;">
     <h3><b>Javascript Developer</b></h3>
     <span>McAfee</span> - <i>Mar 2017 - Aug 2018</i> <br />
     Córdoba, Argentina <br />
-    <p class="description">
+    <p style="line-height: normal;">
     <br />
     Information security platforms, working with Angularjs and Angular, implementation of Nodejs with SSH protocols, and legacy projects support and code quality.
     </p>
   </div>
 </div>
 
-<div class="row">
-  <div class="column image">
-    <img src="https://assets.stickpng.com/images/58568d224f6ae202fedf2720.png" width="150"/>
+<div style="display: table;clear: both;">
+  <div style="float: left; width: 25%; padding: 10px; height: 200px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/800px-Intel_logo_%282006-2020%29.svg.png" width="150"/>
   </div>
-  <div class="column text">
+  <div style="text-align: left;">
     <h3><b>NodeJS Developer</b></h3>
     <span>Intel</span> - <i>Feb 2016 - Mar 2017</i> <br />
     Córdoba, Argentina <br />
-    <p class="description">
+    <p style="line-height: normal;">
     <br />
     Working in two main project using Angular as a main tool on the development for a learning platform, also other tools based on the JS language to enhace the working environment.
     </p>
@@ -168,7 +135,7 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 <hr />
 
-### My Stats :
+### Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 [![Franco Top Langs](https://github-readme-stats.vercel.app/api?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
