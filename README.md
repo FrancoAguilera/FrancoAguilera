@@ -74,7 +74,7 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 ### Current position
 
-<img align="left" width="150" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png">
+<img align="left" width="150" height="200" src="https://i.ibb.co/F70cC8F/49748472-2393354217372857-8545526026023731200-n-removebg-preview.png">
 
 <h3><b>Full-stack Developer</b></h3>
 <span>Altoros</span> - <i>Aug 2018 - Today</i> <br />
@@ -83,8 +83,34 @@ Remote <br />
 <br />
 Fullstack with AWS for backend/DevOps.<br />
 UI/UX development & design for Johnson & Johnson, Canon, BS of Ca.
-DevOps on applications in SNOW, and S3 deployment environments.
+DevOps on applications in SNOW.
 </p>
+
+<hr />
+
+### Previous positions
+
+<img align="left" width="150" height="200" src="https://partnersoftwarelatam.com/wp-content/uploads/2020/11/McAfee-Logo.png">
+
+  <h3><b>Javascript Developer</b></h3>
+  <span>McAfee</span> - <i>Mar 2017 - Aug 2018</i> <br />
+  Córdoba, Argentina <br />
+  <p style="line-height: normal;">
+  <br />
+  Information security platforms, working with Angularjs and Angular, implementation of Nodejs with SSH protocols, and legacy projects support and code quality.
+  </p>
+
+<br />
+
+<img align="left" width="150" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/800px-Intel_logo_%282006-2020%29.svg.png">
+
+  <h3><b>NodeJS Developer</b></h3>
+  <span>Intel</span> - <i>Feb 2016 - Mar 2017</i> <br />
+  Córdoba, Argentina <br />
+  <p style="line-height: normal;">
+  <br />
+  Working in two main project using Angular as a main tool on the development for a learning platform, also other tools based on the JS language to enhace the working environment.
+  </p>
 
 <hr />
 
