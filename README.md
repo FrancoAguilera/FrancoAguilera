@@ -70,8 +70,6 @@ With more than ten years of experience, and a solid JS fundamentals background, 
   <img src="https://www.pngkey.com/png/detail/264-2645294_download-svg-download-png-ethereum-png.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
 </div>
 
-<hr/>
-
 <hr />
 
 ### Stats :
