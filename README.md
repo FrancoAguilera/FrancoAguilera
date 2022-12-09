@@ -3,13 +3,13 @@
 -->
 
 <h1 align="center">Sr. Javascript/NodeJS Developer<h1>
-<br />
+
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 
   <h6>NodeJS developer for <a href="https://www.genesys.com/">@Genesys</a> & Front end engineer at <a href="https://altoros.com.ar/">@Altoros</a></h6>
 </div>
-<br />
+
 
 ### How to reach me:
 
@@ -25,7 +25,7 @@
   </div>
 
 <hr/>
-<br />
+
 
 ### About
 
@@ -33,8 +33,6 @@
 With more than ten years of experience, and a solid JS fundamentals background, I am always looking for a new challenge and something to learn and continue to grow.</p>
 
 <hr/>
-<br />
-
 
 ### Skills
 
@@ -60,7 +58,6 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 <hr/>
-<br />
 
 ### Languages and Tools
 
@@ -76,7 +73,6 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 </div>
 
 <hr />
-<br />
 
 ### NPM Packages 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -88,9 +84,9 @@ With more than ten years of experience, and a solid JS fundamentals background, 
 
 
 <hr/>
-<br />
 
 ### Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrancoAguilera&theme=dark&background=000000)](https://git.io/streak-stats)<br />
 [![Franco Top Langs](https://github-readme-stats.vercel.app/api?username=FrancoAguilera&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br />
+  
