@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 
-  <h6>NodeJS developer for <a href="https://www.genesys.com/">@Genesys</a> & Front end engineer at <a href="https://altoros.com.ar/">@Altoros</a></h6>
+  <h6>JS developer for <a href="https://www.dnv.com/">@DNV</a> at <a href="https://10pearls.com/">@10Pearls</a></h6>
 </div>
 
 
