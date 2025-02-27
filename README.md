@@ -2,7 +2,7 @@
 **FrancoAguilera/FrancoAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Sr. TypeScript / JavaScript / NodeJS Developer<h1>
+<h1 align="center">TypeScript / JavaScript / NodeJS Developer<h1>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAya2xnYnV1MHVweHR0ZjVjMWF4amNoYTVzbGhzd2s4aWZxZ3ZqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnm5aMaI4rPUjtKETw/giphy.gif"/>
