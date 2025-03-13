@@ -1,0 +1,74 @@
+---
+import { basics } from "@cv/resume.json";
+import "@fontsource/covered-by-your-grace";
+import "@fontsource/zen-kaku-gothic-new";
+import SpeedInsights from "@vercel/speed-insights/astro";
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+const { photo } = basics;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="description"
+			content="Senior Software Developer with over 15 years of experience"
+		/>
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<meta name="robots" content="index, follow" />
+
+		<!-- OG = open graph tag -->
+		<meta property="og:title" content={title} />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://francoaguilera.vercel.app/" />
+		<meta property="og:image" content={photo} />
+		<meta
+			property="og:description"
+			content="Senior Software Developer with over 10 years of experience"
+		/>
+		<meta property="og:site_name" content="Franco Aguilera TS Developer" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:author" content="Franco Aguilera" />
+		<meta property="og:profile:first_name" content="Franco" />
+		<meta property="og:profile:last_name" content="Aguilera" />
+		<meta name="twitter:card" content="summary" />
+		<!-- OG -->
+
+		<link rel="canonical" href="https://francoaguilera.vercel.app/" />
+		<link rel="icon" type="image" href={photo} />
+
+		<title>{title}</title>
+	</head>
+	<body
+		class="flex flex-col items-center pt-[2rem] pb-[3rem] sm:pt-[5rem]
+		w-10/12 overflow-x-hidden sm:w-10/12 md:w-9/12 lg:w-8/12 xl:w-7/12 2xl:w-6/12
+		relative dark:bg-black/85 dark:text-gray-100"
+	>
+		<slot />
+		<SpeedInsights />
+	</body>
+</html>
+<style is:global>
+	@import "../styles/reset.css";
+</style>
+
+<!-- Add here the schema markup -->
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"name": "Franco Aguilera",
+		"url": "https://francoaguilera.vercel.app/",
+		"image": "https://francoaguilera.vercel.app/img/me.jpeg",
+		"sameAs": ["https://www.linkedin.com/in/franco-aguilera-2583685a/"],
+		"jobTitle": "Senior Software Developer",
+		"email": "mailto:flaalf@gmail.com"
+	}
+</script>

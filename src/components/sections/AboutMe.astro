@@ -1,0 +1,10 @@
+---
+import { getJsonCV } from "@/utils";
+
+const { basics } = getJsonCV();
+---
+
+<section>
+	<h2>About me</h2>
+	<p>{basics.summary}</p>
+</section>

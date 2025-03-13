@@ -1,0 +1,346 @@
+{
+  "basics": {
+    "name": "Franco Aguilera",
+    "title": "Senior Javascript / Typescript / Node Developer",
+    "label": "Senior Software Developer with over 10 years of experience on the JS stack, focused on creating solutions software in several technologies.",
+    "photo": "./img/me.jpeg",
+    "email": "flaalf@gmail.com",
+    "phone": "+5493516212527",
+    "url": "https://francoaguilera.vercel.app/",
+    "summary": "I've been working in IT for over ten years, specializing in building and maintaining software systems. My expertise includes coding, problem-solving, mentoring colleagues, and unit tests, among others. I'm passionate about using the latest technology to solve real-world problems and make people's lives easier.  I consider myself an organized and neat person. ",
+    "location": {
+      "city": "Córdoba",
+      "country": "Argentina",
+      "googleMaps": "https://maps.app.goo.gl/KFEHPvrF6D5m2iuGA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "franco-aguilera-2583685a",
+        "url": "https://www.linkedin.com/in/franco-aguilera-2583685a/"
+      },
+      {
+        "network": "Github",
+        "username": "FrancoAguilera",
+        "url": "https://github.com/FrancoAguilera"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "rol": "Full Stack Developer",
+      "company": "10Pearls",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Remote"
+      },
+      "date": {
+        "start": "Aug, 2022",
+        "end": "May, 2024"
+      },
+      "summary": "Mobile application for gathering information about the electrical devices in offline mode, and then, sync to the server. The app was developed in VueJS, Electron, and the C# on the server",
+      "stack": [
+        "Typescipt",
+        "VueJS",
+        "Electron",
+        "HTML/CSS",
+        "Bootstrap",
+        "C#"
+      ],
+      "url": "https://www.dnv.com/"
+    },
+    {
+      "rol": "Senior JS/TS Developer",
+      "company": "Altoros",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Remote"
+      },
+      "date": {
+        "start": "Aug, 2018",
+        "end": "Jul, 2022"
+      },
+      "summary": "Fullstack JS developer, mainly working with lambda functions in AWS environment for backend/DevOps. UI/UX development and design for clients such as Johnson & Johnson, Canon, Blue shield of California, and many other. Development and configuration of environments for applications in service now, remote connect, and AWS deployment environments.",
+      "stack": [
+        "JavaScript",
+        "TypeScript",
+        "NodeJS",
+        "Bootstrap",
+        "HTML/CSS"
+      ],
+      "url": "https://www.altoros.com/"
+    },
+    {
+      "rol": "Senior Javascript Developer",
+      "company": "McAfee",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Hybrid"
+      },
+      "date": {
+        "start": "Mar, 2017",
+        "end": "Aug, 2018"
+      },
+      "summary": "Part of the development group for different information security platforms, mostly working on frameworks such as Angularjs and Angular, implementation of Nodejs with SSH protocols, legacy projects suport and code quality assurance.",
+      "stack": [
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "React",
+        "NodeJS",
+        "Bootstrap",
+        "HTML/CSS",
+        "Github"
+      ],
+      "url": null
+    },
+    {
+      "rol": "Javascript Developer",
+      "company": "Santex",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Hybrid"
+      },
+      "date": {
+        "start": "Mar, 2016",
+        "end": "Jan, 2017"
+      },
+      "summary": "Working in two main project using AngularJS as the main tool and many other libraries based on the JS language to enhace the working environment, and the app deployment",
+      "stack": [
+        "AngularJS",
+        "NodeJS",
+        "JavaScript",
+        "Skeleton",
+        "HTML"
+      ],
+      "url": null
+    },
+    {
+      "rol": "Web UI/UX",
+      "company": "Globant",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Hybrid"
+      },
+      "date": {
+        "start": "Mar, 2015",
+        "end": "Mar, 2015"
+      },
+      "summary": "Participate on the migration team of the disney platform, for the new site of Disney Shanghai Park. I was in charge of the UI/UX of the site, and the implementation of the new design.",
+      "stack": [
+        "AngularJS",
+        "HTML/CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Git",
+        "Adobe Illustrator"
+      ],
+      "url": null
+    },
+    {
+      "rol": "NodeJS developer",
+      "company": "Vates",
+      "mode": {
+        "time": "Full-Time",
+        "type": "Hybrid"
+      },
+      "date": {
+        "start": "Jul, 2014",
+        "end": "Mar 2015"
+      },
+      "summary": "Working on the development of a platform for the management of the company's internal projects, using NodeJS as build tool, deployment, and server.",
+      "stack": [
+        "NodeJS",
+        "HTML/CSS",
+        "Javascript",
+        "jQuery",
+        "Bootstrap",
+        "Jira"
+      ],
+      "url": null
+    }
+  ],
+  "education": [
+    {
+      "institution": {
+        "abbreviation": "ITEC LDV",
+        "name": "Instituto Leonardo Da Vinci",
+        "url": "https://www.itecriocuarto.org.ar/"
+      },
+      "area": "System Analyst",
+      "studyType": "Asociate Degree",
+      "date": {
+        "start": "2009",
+        "end": "2012"
+      }
+    }
+  ],
+  "skills": [
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "NodeJS" },
+    { "name": "HTML5" },
+    { "name": "CSS3" },
+    { "name": "Express" },
+    { "name": "React" },
+    { "name": "Sass" },
+    { "name": "Stylus" },
+    { "name": "Bootstrap" },
+    { "name": "ElectronJS" },
+    { "name": "Git" },
+    { "name": "AngularJS" },
+    { "name": "Angular" },
+    { "name": "Jest" },
+    { "name": "Jira" },
+    { "name": "Confluence" },
+    { "name": "Vite" },
+    { "name": "Webpack" },
+    { "name": "Jasmine" },
+    { "name": "Jenkins" },
+    { "name": "Docker" },
+    { "name": "AWS" },
+    { "name": "Heroku" },
+    { "name": "Vercel" },
+    { "name": "GraphQL" },
+    { "name": "Apollo" },
+    { "name": "MongoDB" },
+    { "name": "Mongoose" },
+    { "name": "MongoDB Atlas" },
+    { "name": "PostgreSQL" },
+    { "name": "SQL Server" },
+    { "name": "MySQL" },
+    { "name": "SQLite" },
+    { "name": "Redis" },
+    { "name": "Elasticsearch" },
+    { "name": "RabbitMQ" }
+
+  ],
+  "projects": [
+    {
+      "name": "breadth-first search",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/breadth-first-search"
+      },
+      "isActive": true,
+      "description": "Implements the breadth-first search (BFS) algorithm to get the connection path between two nodes in a graph.",
+      "highlights": [
+        "JavsScript",
+        "NodeJS",
+        "NPM"
+      ]
+    },
+    {
+      "name": "Commitment",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/commitment",
+        "Demo": "https://francoaguilera.github.io/commit-messages/"
+      },
+      "description": "Commitment is a small NPM package that generates random commit messages.",
+      "highlights": ["Node", "Javascript", "NPM", "Jest", "HTML", "CSS" ]
+    },
+    {
+      "name": "Space",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/space"
+      },
+      "description": "A synthwave experiment on ThreeJS.",
+      "highlights": [
+        "JavsScript",
+        "ThreeJS",
+        "CSS",
+        "HTML"
+      ]
+    },
+    {
+      "name": "deno-qrCode",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/deno-qrCode"
+      },
+      "isActive": true,
+      "description": "A QR code generator and reader built with Deno.",
+      "highlights": ["TypeScript", "Deno"]
+    },
+    {
+      "name": "jwt-backend",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/jwt-backend"
+      },
+      "description": "A simple backend with JWT authentication.",
+      "highlights": ["NodeJS", "Express", "JWT", "Javascript"]
+    },
+    {
+      "name": "NodeJS microservices",
+      "url": {
+        "Github": "https://github.com/FrancoAguilera/nodejs-microservices"
+      },
+      "description": "The project is a microservices architecture with NodeJS and RabbitMQ as the message broker.",
+      "highlights": ["NodeJS", "Typescript", "Redis", "Vite", "MongoDB", "Elastic Search", "RabbitMQ"]
+    }
+  ],
+  "certificates": [],
+
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "The code challenge scam: they tried to hack me on a technical interview",
+      "publisher": "Franco Aguilera",
+      "releaseDate": "2024",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7270114822950703107/",
+      "summary": "A fake job interview tried to steal crypto wallet data."
+    },
+    {
+      "name": "Five Mistakes People Make When Using Agile",
+      "publisher": "10Pearls",
+      "releaseDate": "2023",
+      "url": "https://www.proximitycr.com/blog/five-mistakes-people-make-when-using-agile",
+      "summary": "Principles, best practices, and user feedback in Agile development."
+    },
+        {
+      "name": "The Dark Side of Social Media",
+      "publisher": "10Pearls",
+      "releaseDate": "2023",
+      "url": "https://www.proximitycr.com/blog/the-dark-side-of-social-media",
+      "summary": "The echo Chamber, and the monetization of hate in social media as a business model."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ]
+}
