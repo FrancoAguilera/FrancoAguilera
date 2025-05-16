@@ -6,7 +6,6 @@
     "photo": "./img/me.jpeg",
     "email": "flaalf@gmail.com",
     "phone": "+5493516212527",
-    "cv": "./cv/CV_2025_FRANCO_AGUILERA.pdf",
     "url": "https://franco-aguilera.vercel.app/",
     "summary": "I've been working in IT for over ten years, specializing in building and maintaining software systems. My expertise includes coding, problem-solving, mentoring colleagues, and unit tests, among others. I'm passionate about using the latest technology to solve real-world problems and make people's lives easier.  I consider myself an organized and neat person. ",
     "location": {
@@ -177,44 +176,117 @@
     }
   ],
   "skills": [
-    { "name": "JavaScript" },
-    { "name": "TypeScript" },
-    { "name": "NodeJS" },
-    { "name": "HTML5" },
-    { "name": "CSS3" },
-    { "name": "Express" },
-    { "name": "React" },
-    { "name": "Sass" },
-    { "name": "Stylus" },
-    { "name": "Bootstrap" },
-    { "name": "ElectronJS" },
-    { "name": "Git" },
-    { "name": "AngularJS" },
-    { "name": "Angular" },
-    { "name": "Jest" },
-    { "name": "Jira" },
-    { "name": "Confluence" },
-    { "name": "Vite" },
-    { "name": "Webpack" },
-    { "name": "Jasmine" },
-    { "name": "Jenkins" },
-    { "name": "Docker" },
-    { "name": "AWS" },
-    { "name": "Heroku" },
-    { "name": "Vercel" },
-    { "name": "GraphQL" },
-    { "name": "Apollo" },
-    { "name": "MongoDB" },
-    { "name": "Mongoose" },
-    { "name": "MongoDB Atlas" },
-    { "name": "PostgreSQL" },
-    { "name": "SQL Server" },
-    { "name": "MySQL" },
-    { "name": "SQLite" },
-    { "name": "Redis" },
-    { "name": "Elasticsearch" },
-    { "name": "RabbitMQ" }
-
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "NodeJS"
+    },
+    {
+      "name": "HTML5"
+    },
+    {
+      "name": "CSS3"
+    },
+    {
+      "name": "Express"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Sass"
+    },
+    {
+      "name": "Stylus"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "ElectronJS"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "AngularJS"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Jest"
+    },
+    {
+      "name": "Jira"
+    },
+    {
+      "name": "Confluence"
+    },
+    {
+      "name": "Vite"
+    },
+    {
+      "name": "Webpack"
+    },
+    {
+      "name": "Jasmine"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "Heroku"
+    },
+    {
+      "name": "Vercel"
+    },
+    {
+      "name": "GraphQL"
+    },
+    {
+      "name": "Apollo"
+    },
+    {
+      "name": "MongoDB"
+    },
+    {
+      "name": "Mongoose"
+    },
+    {
+      "name": "MongoDB Atlas"
+    },
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "SQL Server"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": "SQLite"
+    },
+    {
+      "name": "Redis"
+    },
+    {
+      "name": "Elasticsearch"
+    },
+    {
+      "name": "RabbitMQ"
+    }
   ],
   "projects": [
     {
@@ -237,7 +309,14 @@
         "Demo": "https://francoaguilera.github.io/commit-messages/"
       },
       "description": "Commitment is a small NPM package that generates random commit messages.",
-      "highlights": ["Node", "Javascript", "NPM", "Jest", "HTML", "CSS" ]
+      "highlights": [
+        "Node",
+        "Javascript",
+        "NPM",
+        "Jest",
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "name": "Space",
@@ -259,7 +338,10 @@
       },
       "isActive": true,
       "description": "A QR code generator and reader built with Deno.",
-      "highlights": ["TypeScript", "Deno"]
+      "highlights": [
+        "TypeScript",
+        "Deno"
+      ]
     },
     {
       "name": "jwt-backend",
@@ -267,7 +349,12 @@
         "Github": "https://github.com/FrancoAguilera/jwt-backend"
       },
       "description": "A simple backend with JWT authentication.",
-      "highlights": ["NodeJS", "Express", "JWT", "Javascript"]
+      "highlights": [
+        "NodeJS",
+        "Express",
+        "JWT",
+        "Javascript"
+      ]
     },
     {
       "name": "NodeJS microservices",
@@ -275,11 +362,18 @@
         "Github": "https://github.com/FrancoAguilera/nodejs-microservices"
       },
       "description": "The project is a microservices architecture with NodeJS and RabbitMQ as the message broker.",
-      "highlights": ["NodeJS", "Typescript", "Redis", "Vite", "MongoDB", "Elastic Search", "RabbitMQ"]
+      "highlights": [
+        "NodeJS",
+        "Typescript",
+        "Redis",
+        "Vite",
+        "MongoDB",
+        "Elastic Search",
+        "RabbitMQ"
+      ]
     }
   ],
   "certificates": [],
-
   "volunteer": [
     {
       "organization": "Organization",
@@ -288,7 +382,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "awards": [
@@ -342,7 +438,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [

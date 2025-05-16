@@ -9,8 +9,7 @@ import { getJsonCV } from "@/utils";
 
 const { basics } = getJsonCV();
 
-const { name, label, title, photo, email, phone, location, profiles, cv } =
-	basics;
+const { name, label, title, photo, email, phone, location, profiles } = basics;
 const ICONS_PROFILES: IconsProfilesType = {
 	LinkedIn,
 	Github,
@@ -70,13 +69,5 @@ const ICONS_PROFILES: IconsProfilesType = {
 			<img src={photo} alt={name} class="aspect-square h-full w-full" />
 			<!-- <figcaption>+16</figcaption> -->
 		</figure>
-		<a
-			href={cv}
-			download="Franco_Aguilera_CV_2025.pdf"
-			title="Download CV"
-			class="p-2 border border-solid border-gray-200 rounded-md mt-2 text-center"
-		>
-			Download CV
-		</a>
 	</div>
 </section>
